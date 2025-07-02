@@ -1,56 +1,78 @@
-# 👋 Hi, I'm TAO Hunter!
+# 👋 Hello, I'm TAO Hunter
 
-## 👨‍💻 Profession / Role
-**Software Engineer | AI Enthusiast**
-
----
-
-## 🛠️ Top Skills
-- **Python**
-- **JavaScript** (Node.js, React)
-- **Machine Learning** (scikit-learn, TensorFlow)
-- **Cloud Computing** (AWS, Docker, Kubernetes)
-- **RESTful APIs**
-- **Git & CI/CD pipelines**
+## 👨‍💻 Software Engineer | AI Systems Builder | Bittensor Miner
 
 ---
 
-## 🌟 Favorite / Featured Projects
-
-- **SmartHealth AI:**  
-  Developed a machine learning model to predict patient readmission risks using Python and TensorFlow.
-
-- **React Portfolio Website:**  
-  A responsive personal portfolio built with React to showcase projects and blogs.
-
-- **Open Source Contributions:**  
-  Regular contributor to open source ML libraries such as scikit-learn and pandas.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,kubernetes,react,nodejs,linux&theme=light" alt="Tech Stack Icons">
+</p>
 
 ---
 
-## 👏 About Me
+## 🧠 Bittensor Miner Experience
 
-Passionate about building scalable software solutions that leverage AI to solve real-world problems. Lifelong learner committed to writing clean, efficient code and collaborating in open source communities.
+🚀 Professional miner on **Bittensor**, specializing in:
 
----
+- **Custom miners** for subnets `#17` (404-Gen) & `#18` (Zeus)
+- Optimization of inference pipelines and evaluation logic
+- Deployment using **Docker**, **Kubernetes**, **TorchServe**
+- Data preprocessing, ranking strategies, and edge-model tuning
 
-## 🧩 Hobbies / Interests
-
-- Exploring new AI research
-- Open source contribution
-- Playing chess and hiking outdoors
-- Reading sci-fi novels
-
----
-
-## 🌐 Social Links
-
-- **GitHub:** [github.com/gptCoder](https://github.com/gptCoder)
+> 🥇 Consistently ranked among **top TAO miners** across subnets  
+> 🧬 Building toward **decentralized AGI**
 
 ---
 
-## 🎉 Fun Facts / Achievements
+## 🔧 Technical Skills
 
-- Bittensor TAO hero
+- **Languages:** Python, JavaScript (Node.js, React)
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn
+- **Infra:** AWS, Docker, Kubernetes, GitHub Actions
+- **Tools:** Git, CI/CD, VSCode, Linux, FastAPI
 
 ---
+
+## 🌟 Featured Projects
+
+📊 **SmartHealth AI**  
+> Predicts patient readmission risk using medical history with TensorFlow.
+
+🌐 **React Portfolio Site**  
+> Responsive and animated portfolio using React + Tailwind.
+
+🤝 **Open Source Contributions**  
+> Contributor to `scikit-learn`, `pandas`, and Bittensor ecosystem tools.
+
+---
+
+## 🧬 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tao-hunter&show_icons=true&theme=default" alt="TAO Hunter's GitHub stats">
+</p>
+
+---
+
+## 🧩 About Me
+
+- Building decentralized AI systems with Bittensor
+- Open-source enthusiast & community contributor
+- Fascinated by autonomous systems and neural evolution
+- Lover of sci-fi, chess, and hiking 🌄
+
+---
+
+## 🔗 Let's Connect
+📬 **Telegram:** `@softdev629`
+
+---
+
+## 🏆 Fun Facts
+
+- 🧠 Created TAO models that outperform OpenMeteo  
+- 🔧 Built and tuned high-precision forecasting agents  
+- 🌐 Ranked contributor in decentralized compute networks
+
+---
+
